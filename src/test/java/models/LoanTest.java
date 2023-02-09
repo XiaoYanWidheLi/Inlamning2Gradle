@@ -1,11 +1,11 @@
 package models;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 import org.junit.jupiter.api.Test;
 import utilities.GenderType;
 
 import java.time.LocalDate;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class LoanTest {
 

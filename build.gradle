@@ -17,3 +17,5 @@ dependencies {
 test {
     useJUnitPlatform()
 }
+
+defaultTasks  'compileJava',  'test' ,  'javadoc'
